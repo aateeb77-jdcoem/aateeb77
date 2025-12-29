@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at JD college of Engineering and Management<br>Aspiring Data Scientist<br>Learning Excel Python AI & Machine Learning<br>Passionate about data drivien soloutions.
+Student at JD college of Engineering and Management<br>Aspiring Data Scientist<br>Learning Excel Python AI & Machine Learning<br>Passionate about data driven soloutions.
 
 
 ## 🌐 Socials:
